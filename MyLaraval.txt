@@ -1,0 +1,17 @@
+Laravel is a php framework 
+
+#Requraments 
+Php server -Xamp
+composer  for the download packages 
+    download and install the composer
+    setUp the xamp path while installing 
+    checking the composer----cmd----
+    composer
+
+Laravel installing
+    composer global require laravel/install
+#project
+#creatining new laravel project
+    laravel new --projectName--
+
+#artisan create a server for laravel
