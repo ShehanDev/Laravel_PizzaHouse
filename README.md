@@ -28,18 +28,17 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 <h1>PizzaHouse project</h1>
 #Requraments 
-Php server -Xamp
-composer  for the download packages 
-    download and install the composer
-    setUp the xamp path while installing 
-    checking the composer----cmd----
-    composer
+#Php server -Xamp
+#composer  for the download packages 
+    #download and install the composer
+    #setUp the xamp path while installing 
+    #checking the composer cmd-composer
 
 #Laravel installing
-    composer global require laravel/install
+    #composer global require laravel/install
 #project
 #creatining new laravel project
-    laravel new --projectName--
+    #laravel new --projectName--
 
 #artisan create a server for laravel
 
